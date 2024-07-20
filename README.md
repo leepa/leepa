@@ -16,11 +16,11 @@ I'm passionate about technology, gaming, and solving complex problems to make a 
 
 Feel free to reach out to me on:
 
-- Twitter: [@joolz](https://twitter.com/joolz)
+- X (formerly known as Twitter): [@joolz](https://twitter.com/joolz)
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python 🐍, Go, JavaScript 🟨, C++ ⚙️, C#
+- **Programming Languages:** Python 🐍, Rust, Go, JavaScript 🟨, C++ ⚙️, C#
 - **Cloud:** AWS ☁️, Azure 🟦, Google Cloud Platform 🌩️
 - **Databases:** PostgreSQL 🐘, MySQL 🟦, MongoDB 🟢
 
