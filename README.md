@@ -23,7 +23,3 @@ Feel free to reach out to me on:
 - **Programming Languages:** Python 🐍, Rust, Go, JavaScript 🟨, C++ ⚙️, C#
 - **Cloud:** AWS ☁️, Azure 🟦, Google Cloud Platform 🌩️
 - **Databases:** PostgreSQL 🐘, MySQL 🟦, MongoDB 🟢
-
-## 📊 GitHub Stats
-
-![leepa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leepa&show_icons=true&theme=radical)
